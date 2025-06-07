@@ -1,10 +1,10 @@
 import re
-import requests
 import concurrent.futures
+from security import safe_requests
 
 def test_speed(channel_name, channel_url):
     try:
-        response = requests.get(channel_url, timeout=2)
+        response = safe_requests.get(channel_url, timeout=2)
         if response.status_code == 200:
             speed = response.elapsed.total_seconds()
             return channel_name, channel_url, f"{speed:.3f} seconds"

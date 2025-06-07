@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 import requests
 import json
 import re
+from security import safe_requests
 
 hebei = "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iSGViZWki"        #河北
 beijing = "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iYmVpamluZyI%3D"   #北京
@@ -94,7 +95,7 @@ def process_url(url):
             url_x = f"{base_url}{ip_address}"
             
             json_url = f"{url}"
-            response = requests.get(json_url, timeout=0.5)
+            response = safe_requests.get(json_url, timeout=0.5)
             json_data = response.json()
 
             try:
@@ -179,7 +180,7 @@ def modify_urls(url):
 
 def is_url_accessible(url):
     try:
-        response = requests.get(url, timeout=0.5)
+        response = safe_requests.get(url, timeout=0.5)
         if response.status_code == 200:
             return url
     except requests.exceptions.RequestException:

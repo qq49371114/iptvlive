@@ -5,6 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import requests
 import re
+from security import safe_requests
 
 urls = [
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=",  # 北京
@@ -146,7 +147,7 @@ def modify_urls(url):
 
 def is_url_accessible(url):
     try:
-        response = requests.get(url, timeout=1)
+        response = safe_requests.get(url, timeout=1)
         if response.status_code == 200:
             return url
     except requests.exceptions.RequestException:
@@ -218,7 +219,7 @@ for url in urls:
             try:
                 # 发送GET请求获取JSON文件，设置超时时间为0.5秒
                 json_url = f"{url}"
-                response = requests.get(json_url, timeout=1)
+                response = safe_requests.get(json_url, timeout=1)
                 json_data = response.content.decode('utf-8')
                 try:
                     # 按行分割数据
