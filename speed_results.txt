@@ -1,4 +1,0 @@
-安徽卫视,http://118.248.167.154:8088/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,1.337 MB/s
-江苏卫视,http://118.248.167.154:8088/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0,1.433 MB/s
-贵州卫视,http://118.248.167.154:8088/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,1.337 MB/s
-辽宁卫视,http://118.248.167.154:8088/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0,1.433 MB/s
