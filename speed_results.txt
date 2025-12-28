@@ -1,0 +1,3 @@
+CCTV7,http://115.48.160.142:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+东南卫视,http://115.48.160.142:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+重庆卫视,http://115.48.160.142:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
