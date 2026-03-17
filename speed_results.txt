@@ -1,0 +1,9 @@
+CCTV8,http://182.114.50.3:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0,1.142 MB/s
+CCTV9,http://182.114.50.3:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0,1.295 MB/s
+CCTV11,http://182.114.50.3:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,1.295 MB/s
+CCTV12,http://182.114.50.3:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0,1.142 MB/s
+东方卫视,http://182.114.50.3:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0,1.221 MB/s
+山西卫视,http://182.114.50.3:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.829 MB/s
+浙江卫视,http://182.114.50.3:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,1.829 MB/s
+辽宁卫视,http://182.114.50.3:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,1.502 MB/s
+陕西卫视,http://182.114.50.3:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0,1.405 MB/s
