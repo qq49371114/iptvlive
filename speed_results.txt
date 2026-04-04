@@ -1,0 +1,11 @@
+CCTV8,http://125.43.244.20:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0,1.181 MB/s
+CCTV10,http://125.43.244.20:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0,1.091 MB/s
+上海卫视,http://125.43.244.20:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0,1.035 MB/s
+安徽卫视,http://125.43.244.20:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0,1.165 MB/s
+山东卫视,http://125.43.244.20:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0,1.061 MB/s
+江西卫视,http://125.43.244.20:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0,1.139 MB/s
+河南卫视,http://125.43.244.20:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0,1.139 MB/s
+河南民生,http://125.43.244.20:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0,1.054 MB/s
+河南都市,http://125.43.244.20:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0,1.181 MB/s
+湖北卫视,http://125.43.244.20:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0,1.036 MB/s
+湖南卫视,http://125.43.244.20:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0,1.165 MB/s
