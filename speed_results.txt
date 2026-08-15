@@ -1,1 +1,1 @@
-嘉佳卡通,http://125.42.151.75:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+嘉佳卡通,http://125.42.148.214:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
