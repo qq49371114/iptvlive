@@ -1,0 +1,4 @@
+CCTV2,http://221.193.168.249:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV11,http://221.193.168.249:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广东卫视,http://125.42.151.4:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+金鹰卡通,http://125.42.151.4:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
